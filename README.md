@@ -68,4 +68,12 @@ Nom de la MarketPlace ????
 - Statut de lecture = 1 ou O
 - Date de création du message
 
-  
+## Structure fichiers (Pages à créer)
+
+- Création du compte
+- Connexion
+- Tableau de bord Client (Commandes, Panier, (adresses), Gestion du compte, avatar, mot de passe)
+- 
+- Tableau de bord Vendeur
+- Tableu de bord Admin
+- 
