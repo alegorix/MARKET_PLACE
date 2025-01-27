@@ -78,7 +78,7 @@ Nom de la MarketPlace ????
 - Page catégorie (listing des produits de la catégorie choisie)
 - Page fiche produit (le produit en détail)
 - Page mentions légales / RGPD Vie privée
-- 
+- Page récapitulatif de la commande
 
 ## Navigation (Vue pour un client)
 - Accueil
