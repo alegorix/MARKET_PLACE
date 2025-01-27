@@ -77,7 +77,7 @@ Nom de la MarketPlace ????
 - Page d'accueil (avec moteur de recherche et affichage en premier des derniers produits ajoutés (listing des produits))
 - Page catégorie (listing des produits de la catégorie choisie)
 - Page fiche produit (le produit en détail)
-- Page mentions légales / RGPD Vie privée
+- Page mentions légales / RGPD Vie privée / Conditions générales de Vente
 - Page récapitulatif de la commande
 
 ## Navigation (Vue pour un client)
