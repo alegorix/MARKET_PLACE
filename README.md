@@ -32,4 +32,23 @@ Nom de la MarketPlace ????
 - Date de MAJ du produit
 - Produit Actif ?
 
-  
+### Table Catégories de produits 
+- ID
+- Nom de Catégorie
+- Catégorie Active ?
+
+### Table Commandes
+- ID
+- ID Acheteur
+- Total de ma commande
+- Date de création de ma commande
+- Statut de commande (EN traitement, EN EXpédition...)
+
+
+### Table Articles_commandés
+- ID
+- ID de la commande
+- ID du produit
+- Quantité
+- Prix
+- Vendeur ID
