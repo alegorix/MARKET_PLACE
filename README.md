@@ -52,3 +52,20 @@ Nom de la MarketPlace ????
 - Quantité
 - Prix
 - Vendeur ID
+
+### Table Panier
+- ID
+- ID de l'utilisateur (= id du client)
+- ID du produit
+- Quantité
+- Date d'ajout au panier
+
+### Table messages
+- ID
+- ID de l'expéditeur
+- ID du receveur
+- Contenu du message
+- Statut de lecture = 1 ou O
+- Date de création du message
+
+  
