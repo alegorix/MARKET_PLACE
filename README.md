@@ -69,11 +69,21 @@ Nom de la MarketPlace ????
 - Date de création du message
 
 ## Structure fichiers (Pages à créer)
-
 - Création du compte
 - Connexion
-- Tableau de bord Client (Commandes, Panier, (adresses), Gestion du compte, avatar, mot de passe)
+- Tableau de bord Client (Commandes, Panier, (adresses), Gestion du compte, avatar, mot de passe...)
+- Tableau de bord Vendeur (Commandes, clients, gestion des produits (CRUD)...)
+- Tableau de bord Admin (Création des catégories de produits, gestion des utilisateurs...)
+- Page d'accueil (avec moteur de recherche et affichage en premier des derniers produits ajoutés (listing des produits))
+- Page catégorie (listing des produits de la catégorie choisie)
+- Page fiche produit (le produit en détail)
+- Page mentions légales / RGPD Vie privée
 - 
-- Tableau de bord Vendeur
-- Tableu de bord Admin
+
+## Navigation (Vue pour un client)
+- Accueil
+- Catégories (menu dropdown)
+- Connexion, S'inscrire ou Mon compte (Profil, commandes, Déconnexion...)
+- Panier (dropdown)
 - 
+  
